@@ -1,5 +1,5 @@
 # bemyalert
-Bemyalert is a revolutionary code application designed specifically for business research.
+Bemyalert is a revolutionary python code designed specifically for business research.
 
 https://user-images.githubusercontent.com/117562432/218761560-e943747d-97aa-4925-85c2-086a28b7cb22.mp4
 
